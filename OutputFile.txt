@@ -1,0 +1,5 @@
+betsy=0
+charlie=38519
+shinu=12
+shiny=10
+tessa=0

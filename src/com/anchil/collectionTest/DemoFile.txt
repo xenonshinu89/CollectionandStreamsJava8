@@ -1,0 +1,7 @@
+charlie=38519
+tessa=0
+shinu=12
+betsy=0
+shiny=10
+tessa=0
+charlie=38519
